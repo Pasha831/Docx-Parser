@@ -72,7 +72,7 @@
 
 Тот же самый код для вывода абзацев, как и ранее:
 
-![image](https://user-images.githubusercontent.com/46136468/142739631-6a9d88c0-0a62-467b-99bb-e5a92424f809.png)
+![image](https://user-images.githubusercontent.com/46136468/142815662-98c3a347-af0a-461c-994b-a76d7a618c54.png)
 
 Но в этот раз мы получим следующее:
 
